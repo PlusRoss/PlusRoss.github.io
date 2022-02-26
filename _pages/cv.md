@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Tsinghua University, 2014-2018
+* Ph.D in Carnegie Mellon University, 2018-2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Intern
+  * Microsoft Research
+  * Supervisor: [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/), [Yuwei Fang](https://scholar.google.com/citations?user=Om_-hHsAAAAJ&hl=zh-CN)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Intern
+  * Microsoft Research
+  * Supervisor: [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)
   
-Skills
+Academic Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant: Machine Learning for Text Mining (Spring 2021, Spring 2022)
+* Conference Reviewer: ICLR 2022, AAAI 2022, NeurIPS 2021, WWW 2021, ECML-PKDD 2020
   
-Talks
+Honors and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* AAAI Scholarship (2022)
+* Tsinghua University Academic Excellence Scholarship (2015, 2016, 2017)
+* Tsinghua University Research Excellence Scholarship (2016, 2017)
+* Qualcomm Academic Research Excellence Scholarship (2016)
+* 1st Prize, Award on National High School Mathematics Competition (Provincial Area) (2013)
