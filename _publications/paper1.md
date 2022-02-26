@@ -2,7 +2,7 @@
 title: "Smartphone App Usage Prediction Using Points of Interest"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'Donghan Yu, Yong Li, Fengli Xu, Pengyu Zhang, Vassilis Kostakos'
+excerpt: '**Donghan Yu**, Yong Li, Fengli Xu, Pengyu Zhang, Vassilis Kostakos'
 date: 2018-10-01
 venue: 'UbiComp'
 ---
