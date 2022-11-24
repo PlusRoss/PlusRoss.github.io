@@ -12,7 +12,7 @@ Hi! I am Donghan Yu, a 5th-year Ph.D. student in Language Technologies Institute
 
 My research interests include knowledge-enhanced NLP, knowledge graph modeling and graph neural networks. My recent research experience covers (1) joint pretraining on knowledge graphs and texts, (2) knowledge graph enhanced open-domain question answering, (3) graph convolutional networks for knowledge graph modeling.    
 
-**News: [DecAF](https://arxiv.org/abs/2210.00063) achieves the 1st place on the [GrailQA](https://dki-lab.github.io/GrailQA/) leaderboard!**
+**News: \[2022.09\] [DecAF](https://arxiv.org/abs/2210.00063) achieves the 1st place on the [GrailQA](https://dki-lab.github.io/GrailQA/) leaderboard!**
 
 ## Selected Publications ##
 
