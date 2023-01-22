@@ -18,7 +18,7 @@ My research interests include knowledge-enhanced NLP, knowledge graph modeling a
 
 1.  **DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases**          
     *Donghan Yu*, Sheng Zhang, Patrick Ng, Henghui Zhu, Alexander Li, Jun Wang, Yiqun Hu, William Wang, Zhiguo Wang, Bing Xiang         
-    Preprint.     
+    ICLR 2023.     
     
 2.  **KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering**         
     *Donghan Yu*, Chenguang Zhu, Yuwei Fang, Wenhao Yu, Shuohang Wang, Yichong Xu, Xiang Ren, Yiming Yang, Michael Zeng     
