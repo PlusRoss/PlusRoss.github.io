@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Donghan Yu, a 5th-year Ph.D. student in Language Technologies Institute, Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my B.S. in Electronic Engineering from Tsinghua University, advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). 
 
-My research interests include knowledge-enhanced NLP, knowledge graph modeling and graph neural networks. My recent research experience covers (1) joint pretraining on knowledge graphs and texts, (2) knowledge graph enhanced open-domain question answering, (3) graph convolutional networks for knowledge graph modeling.    
+My research interests include knowledge-enhanced NLP, knowledge graph modeling and information retrieval.   
 
 **News: \[2022.09\] [DecAF](https://arxiv.org/abs/2210.00063) achieves the 1st place on the [GrailQA](https://dki-lab.github.io/GrailQA/) leaderboard!**
 
