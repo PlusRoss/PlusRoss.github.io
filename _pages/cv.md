@@ -27,16 +27,4 @@ Work experience
 * Summer 2020: Research Intern
   * Microsoft Research
   * Supervisor: [Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)
-  
-Academic Service
-======
-* Teaching Assistant: Machine Learning for Text Mining (Spring 2021, Spring 2022)
-* Conference Reviewer: ICLR 2022, AAAI 2022, NeurIPS 2021, WWW 2021, ECML-PKDD 2020
-  
-Honors and Awards
-======
-* AAAI Scholarship (2022)
-* Tsinghua University Academic Excellence Scholarship (2015, 2016, 2017)
-* Tsinghua University Research Excellence Scholarship (2016, 2017)
-* Qualcomm Academic Research Excellence Scholarship (2016)
-* 1st Prize, Award on National High School Mathematics Competition (Provincial Area) (2013)
+
