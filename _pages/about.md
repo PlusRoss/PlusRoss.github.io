@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Donghan Yu, a 5th-year Ph.D. student in Language Technologies Institute, Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my B.S. in Electronic Engineering from Tsinghua University, advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). 
-
-My research interests include knowledge-enhanced NLP, knowledge graph modeling, information retrieval and question answering.  
-
+Hi! I am Donghan Yu, a senior researcher at Microsoft. I obtained my Ph.D. degree from the Language Technologies Institute at Carnegie Mellon University, where I was fortunate to be advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my B.S. in Electronic Engineering from Tsinghua University.
 
 ## Selected Publications ##
 
