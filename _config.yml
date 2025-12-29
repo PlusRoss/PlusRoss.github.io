@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Donghan Yu"
   avatar           : "photo-donghanyu.jpg"
-  bio              : "PhD Student at CMU LTI"
-  location         : "Pittsburgh, PA"
+  bio              : 
+  location         : "Seattle, WA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KlwvYcEAAAAJ&hl=en"
