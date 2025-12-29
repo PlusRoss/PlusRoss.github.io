@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Donghan Yu, a Researcher on the Apple Foundation Model Team. Previously, I worked at Microsoft GenAI.
+Hi! I am Donghan Yu, a researcher on the Apple Foundation Model Team. Previously, I worked at Microsoft GenAI.
 
-I earned my Ph.D. from the Language Technologies Institute at Carnegie Mellon University (2018–2023), where I was advised by Prof. [Yiming Yang](https://scholar.google.com/citations?user=MlZq4XwAAAAJ&hl=en). Prior to my doctoral studies, I received my B.S. in Electronic Engineering from Tsinghua University (2014–2018).
-
-During my studies, I also completed research internships at Microsoft Research (mentored by [Chenguang Zhu](https://scholar.google.com/citations?user=1b2kKWoAAAAJ&hl=en)) and the Amazon AWS AI Lab (mentored by [Patrick Ng](https://scholar.google.com/citations?user=K69RKB8AAAAJ&hl=en) and [Zhiguo Wang](https://scholar.google.com/citations?user=WrH8uksAAAAJ&hl=en)).
+I earned my Ph.D. from the Language Technologies Institute at Carnegie Mellon University (2018–2023), where I was advised by Prof. [Yiming Yang](https://scholar.google.com/citations?user=MlZq4XwAAAAJ&hl=en). Prior to my doctoral studies, I received my B.S. in Electronic Engineering from Tsinghua University (2014–2018). During my studies, I also completed research internships at Microsoft Research (mentored by [Chenguang Zhu](https://scholar.google.com/citations?user=1b2kKWoAAAAJ&hl=en)) and the Amazon AWS AI Lab (mentored by [Patrick Ng](https://scholar.google.com/citations?user=K69RKB8AAAAJ&hl=en) and [Zhiguo Wang](https://scholar.google.com/citations?user=WrH8uksAAAAJ&hl=en)).
 
 ## Selected Projects ##
 
